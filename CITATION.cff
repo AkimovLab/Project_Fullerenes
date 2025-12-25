@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: NAMD in fullerenes
+message: "If you use this data, please cite it using the metadata from this file."
+type: dataset
+authors:
+  - family-names: Kosal
+    given-names: Yasin
+    email: kosaryas@buffalo.edu
+    affiliation: University at Buffalo, State University of New York
+    orcid: 0000-0003-4261-4388
+  - family-names: Shakiba
+    given-names: Mohammad
+    affiliation: University at Buffalo, State University of New York
+    email: mshakiba@buffalo.edu
+    orcid: 0000-0002-4110-7627
+repository-code: https://github.com/AkimovLab/Project_Fullerenes
+repository: https://github.com/AkimovLab/Project_Fullerenes
+abstract: "This repository contains all input files needed to reproduce the nonadiabatic molecular dynamics (NA-MD) 
+simulations used to study nonradiative excited-state relaxation in the fullerene series C20, C60, C70, C76, C84, C86, and C90.
+The associated study investigates how dense manifolds of electronic excited states and coherent population spreading 
+govern energy relaxation in fullerenes. Using surface-hopping methodologies within TD-DFT framework, we show that 
+electronic Shannon entropy provides a mechanistic explanation of size-dependent relaxation trends across the series."
+keywords:
+  - trajectory surface hopping
+  - nonadiabatic dynamics
+  - quantum dynamics
+  - excited states
+  - fullerenes
+  - FSSH
+  - FSSH-2
+  - GFSH
+  - mSDM
+  - IDA
+  - Shannon entropy
+license: GPL-3.0+
+version: 1.0.0
+date-released: 2025-12-25
